@@ -88,20 +88,21 @@ Based on the observed patterns, the project recommends:
 HR-Employee-Attrition-Analysis/
 ├── README.md
 ├── Data/
-│   └── HR Attrition Dataset.csv
+│   ├── HR_Employee_Attrition_Dataset.csv
+│   └── HR_Employee_Attrition_Dataset.xlsx
 ├── SQL/
-│   └── CAPSTONE SQL QUERY.sql
+│   └── HR_Employee_Attrition_Analysis.sql
 ├── Excel/
-│   └── SQL CAPSTONE PROJECT EXCEL VISUALISATION.xlsx
+│   └── HR_Employee_Attrition_Analysis.xlsx
 ├── Report/
-│   └── Capstone Report SQL.pdf
+│   └── HR_Employee_Attrition_Analysis_Report.pdf
 ├── Presentation/
-│   └── CAPSTONE PRESENTATION SQL.pptx
+│   └── HR_Employee_Attrition_Analysis_Presentation.pptx
 └── screenshots/
-    └── dashboard.png
+    └── Dashboard overview.PNG
 ```
 
-> The repository structure reflects the intended portfolio organization. Files will be added using the actual project deliverables supplied for this analysis; no synthetic replacement dataset or invented project output is included.
+> The repository contains the actual project deliverables used for this analysis; no synthetic replacement dataset or invented project output is included.
 
 ## Tools & Skills
 
